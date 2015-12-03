@@ -1,0 +1,27 @@
+{
+  "name": "string2buffer",
+  "version": "1.0.0",
+  "description": "quickly convert a string to buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/node-string2buffer.git"
+  },
+  "keywords": [
+    "string",
+    "buffer"
+  ],
+  "author": "Kris Selden, Stefan Penner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanpenner/node-string2buffer/issues"
+  },
+  "homepage": "https://github.com/stefanpenner/node-string2buffer#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
